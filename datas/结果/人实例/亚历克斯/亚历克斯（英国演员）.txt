@@ -1,0 +1,9 @@
+AVP:
+中文名=亚历克斯
+出生日期=1990-04-10
+外文名=Alex Pettyfer
+别名=:Alex Richard Pettyfer
+出生地=英格兰Hertford郡的Stevenage
+血型=A
+身高=182厘米
+DESC=亚历克斯（全名：Alex Richard Pettyfer），1990年4月10日出生于英格兰。是一名演员，参与作品有《汤姆求学记》、《风暴突击者》。

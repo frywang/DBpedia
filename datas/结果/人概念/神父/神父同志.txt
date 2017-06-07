@@ -1,0 +1,18 @@
+AVP:
+中文名=神父同志
+发行公司=AVH
+imdb编码=tt0110889
+外文名=Priest
+色彩=彩色
+对白语言=英语
+分级=R
+制片人=George Faber,Joanna Newbery
+制片地区=英国
+主演=莱纳斯·罗彻,汤姆·威尔金森,罗伯特·卡莱尔,Cathy Tyson,Lesley Sharp,Robert Pugh
+上映时间=1995-03-17
+导演=安东尼娅·博德
+片长=105min/阿根廷98min/美国98min
+其它译名=神父
+编剧=吉米·迈克高文
+出品公司=BBC 米拉麦克斯影业公司
+类型=剧情 宗教

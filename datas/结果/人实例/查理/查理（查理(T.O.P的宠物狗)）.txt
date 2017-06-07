@@ -1,0 +1,4 @@
+AVP:
+中文名=charlie
+外文名=查理
+DESC=韩团bigbang成员TOP的狗狗，品种是可卡，是09年11月养的

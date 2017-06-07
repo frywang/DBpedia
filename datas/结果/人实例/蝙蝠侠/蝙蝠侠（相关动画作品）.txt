@@ -1,0 +1,6 @@
+AVP:
+中文名=蝙蝠侠
+国家=美国
+时间段=1992-1995
+外文名=Batman
+DESC=《蝙蝠侠》（Batman）系列动画片由华纳兄弟制作，出品了多部动画，主要是《蝙蝠侠动画系列（BATMAN THE ANIMATED SERIES）》、《新蝙蝠侠冒险记（The New Batman Adventures）》、《蝙蝠侠大战幻影人》和《未来蝙蝠侠》等。上海电视台引进的蝙蝠侠动画片是由第1季(Batman: The Animated Series)和第2季(蝙蝠侠&amp;罗宾冒险记The Adventures of Batman &amp; Robin)及新蝙蝠侠冒险记第1、2集构成。剧情：第一代罗宾迪克·格雷森已经从学院毕业，并且和蝙蝠侠发生了较大的摩擦，于是他独自前往Bludheaven，一个比高谭市更邪恶的城市自立门户，自称夜翼。但是在蝙蝠侠需要他时，他仍然会回来帮助蝙蝠侠。

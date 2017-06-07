@@ -1,0 +1,4 @@
+AVP:
+中文名=跑步运动中定速员
+外文名=Pacemaker
+DESC=兔子（Rabbit）是跑步运动中定速员（Pacemaker）的俗称。

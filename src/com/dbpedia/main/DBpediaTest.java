@@ -157,9 +157,9 @@ public class DBpediaTest {
 		
 		
 		//打开需要获取属性的词表
-		File fil = new File("./test");		
+		File fil = new File("./test2");		
 		//确定需要写入属性组的文件夹
-		String dir = "./datas/结果/人概念/";
+		String dir = "./datas/结果/中国历史人物实例/";
 		writeFiles(fil,dir,pattern);		
 
 	}

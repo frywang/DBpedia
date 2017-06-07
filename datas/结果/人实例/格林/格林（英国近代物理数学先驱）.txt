@@ -1,0 +1,6 @@
+AVP:
+中文名=乔治·格林
+出生日期=1793-07-14
+外文名=George Green
+逝世日期=1841-05-31
+DESC=乔治·格林（George Green，西元1793年7月14日—西元1841年5月31日，国际音标[ʤɔːʤ gɹiːn]），英国科学家，西元1828年发表《论应用数学分析于电磁学》(《An Essay on the Applications of Mathematical Analysis to the Theories of Electricity and Magnetism》)。这篇论文引入了好些重要概念，其中有一条定理与现在的格林定理相似，还有物理的势函数，和格林函数的概念。

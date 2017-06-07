@@ -1,0 +1,6 @@
+AVP:
+中文学名=红血猴
+科=猴科
+其他名称=短尾猴,红脸猴
+界=动物界
+DESC=又名短尾猴、红脸猴，猴科 Cercopithecidae 。英文名 stump-tailed macaque

@@ -1,0 +1,13 @@
+AVP:
+音乐风格=另类嘻哈,意识嘻哈,Horrorcore,惊悚
+中文名=斯坦
+外文名称=Stan
+所属专辑=《The Marshall Mathers LP》
+歌曲语言=英语
+编曲=斯坦,斯坦
+填词=蒂朵,Eminem
+歌曲时长=6:40
+歌曲原唱=Eminem,蒂朵
+DESC=《Stan》是Eminem收录于其2000年的专辑《The Marshall Mathers LP》中的歌曲。英国女歌手蒂朵在本曲中献声。《Stan》在英国和澳大利亚排行榜中获得冠军位置，在滚石杂志评出的“历史上最伟大的500首歌曲”中名列第290位。
+MV演员=男 戴文·萨瓦,男 Eminem,女 Dido
+发行时间=2000-12-04

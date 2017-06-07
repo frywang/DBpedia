@@ -1,0 +1,3 @@
+AVP:
+CATEGORY_ZH=人物
+DESC=张旭;女，西南大学副教授

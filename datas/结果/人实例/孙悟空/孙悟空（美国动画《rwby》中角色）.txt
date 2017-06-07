@@ -1,0 +1,13 @@
+AVP:
+中文名=孙悟空
+身份=真空王国的弗纳人，SSSN队长
+配音=Michael Vencent Jones（美）
+前野智昭（日）
+外文名=Sun WuKong
+学院=避风天堂学院（Haven）
+登场作品=《RWBY》
+年龄=不详
+身高=6英尺
+DESC=Sun WuKong（孙悟空）是美国原创网络动画《RWBY》中的角色，从真空王国（Vacuo）偷渡来到溪谷王国（Vale）参加维特节锦标赛的弗纳人（Faunus），SSSN队队长，避风学院（Haven）学生。武器为金箍棒和如意棒。
+性别=男
+武器=金箍棒和如意棒

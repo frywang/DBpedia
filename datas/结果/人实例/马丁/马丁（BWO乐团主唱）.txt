@@ -1,0 +1,9 @@
+AVP:
+中文名=马丁.安德烈.罗林斯基
+眼睛=蓝/绿
+居住地=斯德哥尔摩和哥德堡
+头发=金发
+出生日期=1982-06-23
+外文名=Martin Andrzej Rolinski
+国籍=波兰
+DESC=马丁，BWO乐队主唱，BWO(BODIES WITHOUT ORGANS) 空壳乐队,这组来自瑞典三人团体.揉合动感欧陆舞曲、动人抒情曲风及畅快80风格。横扫九○年代的瑞典怪趣流行舞曲团Army Of Lovers的主脑Alexander Bard领军欧陆超级流行团体。

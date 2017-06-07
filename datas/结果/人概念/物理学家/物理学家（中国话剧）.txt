@@ -1,0 +1,3 @@
+AVP:
+中文名=物理学家
+外文名=Physical scientist

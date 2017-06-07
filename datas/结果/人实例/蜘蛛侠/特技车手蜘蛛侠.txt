@@ -1,0 +1,5 @@
+AVP:
+中文名=特技车手蜘蛛侠
+民族=汉
+外文名=tejicheshouzhizhuxia
+别名=蜘蛛侠

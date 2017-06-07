@@ -1,0 +1,14 @@
+AVP:
+采收时间=夏、秋季
+门=节肢动物门
+用量=内服：研末，3-6g；或入丸剂
+界=动物界
+种=碧尾蜓、赤蜻蛉、夏赤卒、褐顶赤卒、黄衣
+DESC=蜻蜓，中药名。为蜓科动物碧尾蜓Anax parthenope Selys和蜻科动物赤蜻蛉Crocothemis servilia(Drury)、夏赤卒Sympetrum darwinianum(Selys)、褐顶赤卒Sympetrum infuscatum(Selys)、黄衣Plantala flavescens(Fabricius)等的全体。碧尾蜓全国大部分地区均有分布；赤蜻蛉分布于我国南北各地；夏赤卒分布于福建、广西、四川；褐顶赤卒分布于我国南北各地；黄衣分布于我国南北各地。具有益肾壮阳，强阴秘精之功效。常用于肾虚阴痿，遗精，喘咳。
+目=蜻蜓目
+中文学名=蜻蜓
+科=蜓科、蜻科
+纲=昆虫纲
+CATEGORY_ZH=中药,药品
+分布区域=全国大部分地区
+毒性=无毒（《日华子》）

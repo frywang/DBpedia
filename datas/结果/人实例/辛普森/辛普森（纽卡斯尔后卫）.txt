@@ -1,0 +1,5 @@
+AVP:
+中文名=辛普森
+外文名=Danny Peter Simpson
+出生地=索尔福德
+国籍=英格兰

@@ -1,0 +1,8 @@
+AVP:
+中文名=风暴之灵
+游戏平台=dota2
+外文名=Storm Spirit
+登场作品=dota2
+DESC=风暴之灵是多人实时对战游戏《DotA2》（Defense of the Ancients）里近卫军团的一名智力英雄。英雄定位：核心，先手，逃生，控制。
+游戏类型=实时对战
+性别=男

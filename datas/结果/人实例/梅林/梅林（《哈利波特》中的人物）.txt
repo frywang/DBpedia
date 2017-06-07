@@ -1,0 +1,9 @@
+AVP:
+说法=“Merlin’s beard”
+中文名=梅林
+CATEGORY_ZH=电影,人物
+外文名=Merlin
+学院=斯莱特林
+梅林简介=巧克力蛙上的巫师
+DESC=英国作家J·K·罗琳的魔幻文学系列小说《哈利波特》中出现的人物。巧克力蛙上的巫师。魔法世界经常使用的“Merlin’s beard”和“What in the name of Merlin!”类似这样的说法表示感叹之情。
+释义=《哈利波特》中的人物

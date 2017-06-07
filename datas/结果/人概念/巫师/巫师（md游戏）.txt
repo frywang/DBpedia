@@ -1,0 +1,7 @@
+AVP:
+中文名=巫师
+游戏语言=英语
+CATEGORY_ZH=游戏
+原版名称=Sorcerian
+DESC=巫师是一种角色扮演类游戏，原版名称Sorcerian。
+游戏类型=角色扮演类游戏

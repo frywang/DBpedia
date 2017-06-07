@@ -1,0 +1,13 @@
+AVP:
+中文学名=丹顶鹤
+科=鹤科
+纲=鸟纲
+命名者及年代=Müller, 1776
+英文名称=Red-crowned Crane,Japanese Crane,Manchurian Crane
+别名=仙鹤,红冠鹤
+拉丁学名=Grus japonensis
+门=脊索动物门
+界=动物界
+种=丹顶鹤
+属=鹤属
+目=鹤形目

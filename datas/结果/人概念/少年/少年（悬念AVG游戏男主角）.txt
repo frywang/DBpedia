@@ -1,0 +1,5 @@
+AVP:
+中文名=少年
+人物设定=丧失记忆中的少年
+所属游戏=Ever 17 - the out of Infinity
+外文名=Shonen

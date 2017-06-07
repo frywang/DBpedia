@@ -1,0 +1,6 @@
+AVP:
+中文名=肯尼
+直属=CANSONIC 集团
+外文名=CANSONIC
+商标=台湾雄钜实业有限公司
+DESC=肯尼商标为台湾雄钜实业有限公司所有，直属CANSONIC集团。

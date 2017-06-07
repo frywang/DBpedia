@@ -1,0 +1,8 @@
+AVP:
+中文名=马尔科姆·梅林
+外文名=Malcolm Merlyn
+饰演=约翰·巴洛曼
+其他名称=黑箭、黑暗射手、The Dark Archer
+登场作品=《绿箭侠》系列
+DESC=马尔科姆·梅林（Malcolm Merlyn）是美国DC漫画旗下超级反派，初次登场于《美国正义联盟》第94期（1971年），由Mike Friedrich、Neal Adams和Dick Dillin联合创造。
+性别=男

@@ -1,0 +1,8 @@
+AVP:
+中文名=蝙蝠侠
+游戏平台=ios
+资费=￥30.00
+游戏画面=2D
+开发商=Telltale Games
+DESC=《蝙蝠侠》（Batman:The Telltale Series）是一款剧情向的游戏。
+游戏类型=角色扮演

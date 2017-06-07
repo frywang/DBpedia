@@ -1,0 +1,12 @@
+AVP:
+中文学名=毛酸浆
+科=茄科(Solanaceae)
+纲=双子叶植物纲(Magnoliopsida)
+别名=姑茑,姑娘
+拉丁学名=Physalis pubescens L.
+门=被子植物门(Angiospermae)
+界=植物界
+种=毛酸浆(P. pubescens)
+DESC=毛酸浆（Physalis pubescens L.），又名洋姑娘或地樱桃（Ground cherry），是茄科酸浆属的一种植物。宿存萼（persistent calyx）为5棱，果实呈黄色，可以食用，甜味。
+属=酸浆属(Physalis)
+目=管花目(Tubiflorae)

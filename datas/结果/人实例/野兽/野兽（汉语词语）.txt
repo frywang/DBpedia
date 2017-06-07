@@ -1,0 +1,5 @@
+AVP:
+中文名=野兽
+外文名=wild beast;wild animal
+拼音=yě shòu
+DESC=[wild beast;wild animal] 家畜以外的兽类，天性凶猛，尤指食肉的野生哺乳动物。

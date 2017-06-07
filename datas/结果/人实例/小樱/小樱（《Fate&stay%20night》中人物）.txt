@@ -1,0 +1,15 @@
+AVP:
+中文名=间桐樱
+三围=B85 W56 H87
+Servan=Rider,Saber Alternative
+外文名=まとうさくら,Matou Sakura
+登场作品=《fate/stay night（Studio DEEN制作的电视动画）》,《Fate/Zero（ufotable制作的电视动画）》
+姐姐=远坂凛
+DESC=间桐樱（まとう さくら），动漫及游戏《Fate/Stay night》樱线-Heavens Feel及根据该游戏改编的同名动画的女主角之一。间桐慎二之妹，比士郎低一个年级，在同年级之中是出名的美人。在士郎面前总是充满笑容，拥有沉稳的性格。
+性别=女
+体重=46kg
+配音=下屋则子
+出生日期=0000-03-2
+其他名称=远坂樱
+血型=O型
+身高=156cm

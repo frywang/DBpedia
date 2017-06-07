@@ -1,0 +1,8 @@
+AVP:
+中文名=诺亚
+职业=摄影师
+主要成就=曾为Surface、Bazzar、Elle、Femina等国际时尚杂志担任特约摄影
+毕业院校=英国KIAD ( University of Creative Arts )
+出生地=台北天母
+DESC=深圳市大象无形文化传播公司主导摄影师诺亚。
+毕业于英国KIAD ( University of Creative Arts )摄影系，1998年开始从事时尚摄影。曾为Surface、Bazzar、Elle、Femina等国际时尚杂志担任特约摄影。

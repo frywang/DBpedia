@@ -1,0 +1,5 @@
+AVP:
+发行商=Stomic Elbow
+中文名=毛毛
+原版名称=ehuzzle
+游戏类型=消除游戏

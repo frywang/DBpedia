@@ -1,0 +1,6 @@
+AVP:
+中文名=太子
+外文名=Prince Edward
+位于=香港
+属于=旺角的一部分
+DESC=太子（Prince Edward）位于香港九龙半岛北部的油尖旺区。

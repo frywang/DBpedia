@@ -1,0 +1,6 @@
+AVP:
+中文名=死人
+游戏平台=PC
+外文名=DeathMan
+DESC=《死人》这是一款由Domini Games制作，Alawar发行的找图类冒险解密游戏。
+发行时间=2012年

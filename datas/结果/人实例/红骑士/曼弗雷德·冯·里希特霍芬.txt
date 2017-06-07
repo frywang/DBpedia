@@ -1,0 +1,9 @@
+AVP:
+中文名=曼弗雷德·冯·里希特霍芬
+职业=飞行员
+出生日期=1892-05-02
+外文名=Manfred Albrecht Freiherr von Richthofen
+逝世日期=1918-04-21
+别名=红骑士
+国籍=德国
+DESC=曼弗雷德·冯·里希特霍芬，全名曼弗雷德·阿尔布雷希特·冯·里希特霍芬（Manfred Albrecht Freiherr von Richthofen，1892.5.2—1918.4.21），是一名德国飞行员，被称为王牌中的王牌（ace of aces）。他也是战斗机联队指挥官和第一次世界大战击落最多敌机的的战斗机王牌，共击落80架敌机之多。里希特霍芬于法语区被称为“le Baron Rouge”、“le Diable Rouge”、“Le Petit Rouge”，英语区称他为“Red Knight”（红骑士）和“Red Baron”。德国将Red Baron翻译为“der Rote Baron”，这个绰号于德国国内广为流传。

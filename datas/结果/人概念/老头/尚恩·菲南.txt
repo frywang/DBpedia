@@ -1,0 +1,15 @@
+AVP:
+中文名=尚恩·斯蒂芬·菲南
+职业=歌手
+星座=巨蟹座
+主要成就=westlife主唱
+外文名=Shane Steven Filan
+别名=老头
+出生地=爱尔兰斯莱戈
+代表作品=my love;i lay my love on you;Uptown Girl;you and me;always tomorrow
+DESC=尚恩·菲南（Shane Steven Filan），1979年生于爱尔兰的斯莱戈，原西城男孩主唱，爱好骑马、斯诺克、野营、高尔夫，获得了多项音乐类重要奖项。西城男孩解散后单飞。
+性别=男
+出生日期=1979-07-05
+毕业院校=夏山学院
+国籍=爱尔兰,斯莱戈
+身高=175cm

@@ -1,0 +1,4 @@
+AVP:
+中文名=路路通
+官网=http://www.lltskb.com/
+DESC=路路通，是一款针对WM平台开发的公交时刻表软件。

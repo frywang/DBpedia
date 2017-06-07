@@ -1,0 +1,9 @@
+AVP:
+发行商=dtp AG/Anaconda
+中文名=原始人
+语种=英语
+CATEGORY_ZH=游戏作品,通信技术,科技产品,娱乐作品,游戏
+发行日期=2010年06月25日
+制作人=House of Tales Entertainment GmbH
+DESC=2009年内发售，《原始人》是一款动作类游戏。《原始人》曾在世界范围内广受好评，以全新的形态回归到NDS和PC上！
+游戏类型=动作冒险

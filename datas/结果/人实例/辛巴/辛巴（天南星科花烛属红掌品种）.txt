@@ -1,0 +1,6 @@
+AVP:
+中文学名=辛巴
+科=天南星科Araceae
+界=植物界
+种=红掌Anthuri umandraeanum
+属=花烛属Anthurium

@@ -1,0 +1,5 @@
+AVP:
+导演=Pavel Chukhraj
+出生日期=1988-09-18
+外文名=misha philipchuk
+译名=小偷

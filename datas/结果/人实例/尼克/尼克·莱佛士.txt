@@ -1,0 +1,7 @@
+AVP:
+中文名=尼克·莱佛士
+CATEGORY_ZH=教育学家
+出生地=美国
+国籍=美国
+DESC=尼克·莱佛士，旧金山麦罗伦大学康复学硕士，心理学及社会工作的专业学位美国催眠治疗师专业评审委员会(The American Council for Hypnotherapist Examiners – A.C.H.E.)指定讲师和考试评审。
+性别=男

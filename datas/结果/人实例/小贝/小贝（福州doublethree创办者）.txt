@@ -1,0 +1,6 @@
+AVP:
+中文名=小贝
+职业=CEO
+主要成就=Double Three（DBTR）服装公司的CEO
+国籍=中国
+DESC=小贝，Double Three（DBTR）服装公司的CEO。福州潮流界最著名的元老，第一批福州街拍少年中的先锋，成立福州最早的街头时尚网站“嘻哈福州”。

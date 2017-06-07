@@ -1,0 +1,19 @@
+AVP:
+亚门=脊椎动物亚门Vertebrata
+二名法=Homo erectus pekinensis
+别名=中国猿人北京种,北京猿人,北京人
+拉丁学名=Homo erectus pekinensis
+门=脊索动物门Chordata
+界=动物界
+种=直立人H. erectus
+DESC=北京猿人，正式名称为“中国猿人北京种”，现在在科学上常称之为“北京直立人”，英学名为Homo erectus pekinensis。中国的直立人化石。 北京猿人生活在距今大约 50万年。遗址发现地位于北京市西南房山区周口店龙骨山。 北京猿人大约在70万年前来到周口店，在这里生活了近50万年。到约20万年前，北京猿人才离此而去。 北京猿人的颧骨较高。脑量平均仅1075毫升。身材粗短，男性高约156－157厘米，女性约144厘米。腿短臂长 ，头部前倾。
+目=灵长目Primates
+族=人族Hominini
+中文学名=北京直立人
+科=人科Hominidae
+亚纲=真兽亚纲Theria
+纲=哺乳纲Mammalia
+亚种=北京直立人H. E. pekinensis
+亚目=简鼻亚目Haplorrhini
+亚科=人亚科Homininae
+属=人属Homo

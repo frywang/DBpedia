@@ -1,0 +1,14 @@
+AVP:
+门=脊索动物门 Chordata
+中文别名=灯眼鱼,闪电侠,奇眼鲷
+界=动物界
+种=灯颊鲷
+DESC=灯颊鲷（Anomalops katoptron）又称闪电侠，灯眼鱼，奇眼鲷，为金眼鲷目，燧鲷亚目，灯眼鱼科，灯颊鲷属一种热带地区生活于深海礁石区的海水鱼类。灯颊鲷分布于菲律宾，印度尼西亚，日本海南部至大堡礁等海域，外形奇特，尤以眼部引人注目，可作为观赏鱼。
+目=金眼鲷目 Beryciformes
+中文学名=灯颊鲷
+科=灯眼鱼科 Anomalopidae
+纲=辐鳍鱼纲 Actinopterygii
+英文名称=Splitfin flashlightfish
+分布=分布于西太平洋区，包括印尼,马来西亚,菲律宾,台湾,日本,密克罗尼西亚等海域
+亚目=燧鲷亚目 Trachichthyoidei
+属=灯颊鲷属 Anomalops'

@@ -1,0 +1,12 @@
+AVP:
+地区=美国加利福尼亚
+中文名=米老鼠
+发行=迪士尼动画公司
+角色设计=华特·迪士尼,Walt Disney,Federico Pedrocchi,NA
+导演=Ralph Murphy
+原版名称=Mickey Mouse
+原作=华特·迪士尼
+主要配音=Marcellite Garner,Russi Taylor,NA
+DESC=米老鼠是迪士尼先生的构思，又是迪士尼先生制作出来的，很多人认为米老鼠出自迪士尼之手，其实不是这样。米老鼠的最初原型是他的设计伙伴伍培·艾沃尔斯（iwerke)执笔设计的。维·史密斯和费洛伊德·戈特佛森创作的米老鼠的故事。米老鼠的形象设计出来以后，迪士尼开始用它来制作动画片。
+编剧=Muriel Roy Bolton
+类型=少儿动画

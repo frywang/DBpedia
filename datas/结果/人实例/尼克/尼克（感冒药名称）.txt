@@ -1,0 +1,11 @@
+AVP:
+外文名称=Paracetamol Pseudoephedrine Hydrochloride Compound Tablets Paracetamol and Pseudoephedrine Hydrochloride and Diphenhydramine Tablets
+药品名称=尼克
+CATEGORY_ZH=药品
+剂型=片剂
+不良反应=偶有轻度口干，口苦，上腹不适等。
+别名=氨酚伪麻片/氨苯伪麻片
+是否处方药=非处方药
+DESC=尼克通用名称氨酚伪麻片/氨苯伪麻片是一种感冒药类非处方药药品。
+主要适用症=普通感冒或流行性感冒引起的一些症状
+批准文号=氨酚伪麻片 国药准字H10950015氨苯伪麻片 国药准字H10950308

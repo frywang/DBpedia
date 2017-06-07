@@ -1,0 +1,5 @@
+AVP:
+地区=佛山市
+中文名=雪人CAT
+外文名=Snowman Computer Assisted Translation
+开发公司=雪人计算机有限公司

@@ -1,0 +1,8 @@
+AVP:
+中文名=加菲猫
+出现时间=1982年
+外文名=The Garfield Show
+DESC=《加菲猫》（Garfield），部分译本作《加菲尔》，是一部美国漫画，由吉姆·戴维斯（James Robert ""Jim"" Davis）创作。
+主角加菲（Garfield）是一只橙色、只吃人类食物的猫，包括一只不太聪明的宠物狗欧迪（Odie）及它们的主人乔恩·艾伯克（Jon Arbuckle，又译阿北、老姜）。加菲的名字取自吉姆·戴维斯的祖父詹姆斯·加菲尔·戴维斯（James Garfield Davis），而詹姆斯·加菲尔·戴维斯的名字可能是取自美国前总统詹姆斯·加菲尔德（James Abram Garfield）。
+加菲猫自推出以来受到众多观众的喜爱，是一个成功的虚拟角色。
+类别=动漫人物

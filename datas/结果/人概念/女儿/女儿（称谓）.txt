@@ -1,0 +1,7 @@
+AVP:
+中文名=女儿
+CATEGORY_ZH=字词,电影,语言
+属类=称谓词
+外文名=daughter
+拼音=nǚ ér
+DESC=女儿是一个称谓。

@@ -1,0 +1,6 @@
+AVP:
+中文名=科迈罗
+CATEGORY_ZH=社会,交通
+外文名=Chevrolet Camaro
+别名=大黄蜂
+DESC=大黄蜂是变形金刚中为人熟知的人物。同时也是雪佛兰 科迈罗（英文名：Chevrolet Camaro）的别称。设计于1960年，目前共发展了五代。

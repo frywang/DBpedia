@@ -1,0 +1,6 @@
+AVP:
+中文名=大师
+CATEGORY_ZH=电影
+外文名=master,great master
+DESC=(1) great master;master∶指造诣深、享有盛誉的学者、专家、艺术家、棋手等。例子：象棋大师。
+(2) Great Master∶佛的十尊号之一。即天人师。佛教徒称佛，也用作对和尚的尊称。诸山东大师无不涉《尚书》以教矣。 ——《史记·伏生列传》

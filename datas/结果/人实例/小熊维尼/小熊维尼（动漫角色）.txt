@@ -1,0 +1,6 @@
+AVP:
+中文名=小熊维尼
+外文名=Winnie the pooh
+其他名称=维尼
+登场作品=《小熊维尼》,《小熊维尼与跳跳虎》
+DESC=中文名称：小熊维尼/维尼* 其他名字：噗噗熊、Pooh Bear、Edward Pooh、Mr Sanders 首次登场：1966年小熊维尼和蜂蜜树(WinniethePoohandtheHoneyTree)* 角色性格：天真、单纯、诚实、乐观、助人为乐、体贴、贪吃、好奇 小熊维尼居住地：百亩森林 最喜欢的食物：蜂蜜。..再多一点蜂蜜 兴趣：和小猪及克理斯多夫罗宾去冒险，早上作体操，寻找蜜蜂，及哼歌 其他名字：噗噗熊、Pooh Bear、Winnie ther Pooh、Edward Pooh、Mr Sanders? 早晨第一句话：「今天的早餐是什么？」

@@ -1,0 +1,8 @@
+AVP:
+发行商=Play-Publishing
+中文名=雪人
+游戏平台=PC
+发行日期=2011年
+原版名称=Snowman
+开发商=Play-Publishing
+游戏类型=动作冒险类(ACT)游戏

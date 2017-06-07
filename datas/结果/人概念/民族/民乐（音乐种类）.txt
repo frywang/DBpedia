@@ -1,0 +1,6 @@
+AVP:
+中文名=民族
+外文名=music, esp. folk music, for traditional Chinese instruments
+民乐代表=女子水晶乐坊,女子十二乐坊
+DESC=中国民族音乐是指用中国传统乐器以独奏、合奏、舞奏形式演奏的民间传统音乐。
+分类=术语

@@ -1,0 +1,10 @@
+AVP:
+中文名=妻子
+属性=英语
+外文名=wife
+巧记法=我们（we）中间坐着姨夫（if）
+DESC=[ waif ] n. 妻子
+词形变化： 名词：wifehood
+名词复数:wives
+名词复数=wives
+词形变化=名词：wifehood

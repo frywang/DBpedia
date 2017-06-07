@@ -1,0 +1,9 @@
+AVP:
+体重=79kg
+中文名=凯文
+出生日期=1972-10-03
+外文名=Kevin Richardson
+别名=Mr.Body Beautiful
+国籍=美国
+身高=187cm
+DESC=Kevin Richardson〔出生于一 九七二年十月三日〕绰号：Mr.Body Beautiful，Kev，Kevy-Kev，Train。美国流行乐组合后街男孩成员之一。06年因个人原因决定暂时离队，后街男孩宣布前乐队成员凯文·理查森(Kevin Richardson)将回归并在美国时间2012年8月31日集体亮相《早安美国》(Good Morning America)在纽约中心公园举行的夏季系列演唱会。为庆祝组合成立20周年，后街男孩的新专辑有望与乐迷见面。

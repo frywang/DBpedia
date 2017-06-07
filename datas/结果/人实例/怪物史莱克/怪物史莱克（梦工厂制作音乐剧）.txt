@@ -1,0 +1,8 @@
+AVP:
+中文名=《怪物史瑞克》
+发行公司=百老汇
+外文名=Shrek the Musical
+出品时间=2008年12月14日
+制片地区=纽约
+DESC=音乐剧《怪物史瑞克》(Shrek the Musical)，由梦工厂联合Neal Street Productions公司根据卖座动画片《怪物史瑞克》改编创作，于2008年12月14日在纽约百老汇首演。
+出品公司=Neal Street Productions公司

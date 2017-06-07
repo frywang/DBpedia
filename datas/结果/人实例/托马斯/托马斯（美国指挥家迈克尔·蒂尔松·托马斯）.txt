@@ -1,0 +1,5 @@
+AVP:
+中文名=托马斯
+职业=美国指挥家
+出生日期=1944年
+外文名=MichaeI Tilson Thomas

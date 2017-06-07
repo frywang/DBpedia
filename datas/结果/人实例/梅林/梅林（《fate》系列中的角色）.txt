@@ -1,0 +1,16 @@
+AVP:
+体重=68kg
+中文名=梅林
+配音=小林勝也(动画)
+諏訪部順一(Réalta Nua)
+櫻井孝宏(Garden of Avalon 广播剧、Fate/ Grand Order)
+外文名=Merlin Ambrosius
+其他名称=花之魔术师
+登场作品=Fate/Stay Night
+Garden of Avalon（阿瓦隆之庭）
+Fate/Grand Order
+身高=178cm
+DESC=《fate》系列中阿尔托利亚·潘德拉贡的老师和辅助者，也是魔术师中的顶点。
+最后以逃避女人的理由来到理想乡阿瓦隆，被囚禁在乐园之庭(Garden of Avalon)中。
+因为不会死亡，所以无法成为英灵。
+性别=男

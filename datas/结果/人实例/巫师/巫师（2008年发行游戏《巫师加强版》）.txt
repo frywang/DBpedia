@@ -1,0 +1,8 @@
+AVP:
+中文名=巫师加强版
+游戏平台=PC
+发行日期=2008年
+原版名称=The Witcher: Enhanced Edition
+开发商=CD Projekt RED
+DESC=《巫师加强版》（The Witcher: Enhanced Edition）是由CD Projekt RED开发的一款角色扮演类的pc游戏，于2008年发售。该游戏将会以精装版的包装与世人见面，匠心独具的各种超值组件都将囊括在其中，包含了额外的关卡、游戏音乐、重新录制的故事短片、游戏主题，以及《巫师》创作者Andrej Sapkowski的游戏故事等。游戏中为数可观的诸多新项目与强化，都将为过去的PC角色扮演游戏带来更多划时代的新体验。
+游戏类型=角色扮演游戏

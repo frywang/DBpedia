@@ -1,0 +1,9 @@
+AVP:
+中文名=歌手
+职业=乡村歌
+出生日期=1985-06-12
+出生地=田纳西州 莫非斯堡市
+DESC=姓名：Chris Young全名：Christopher Alan Young
+生日：1985年6月12日
+来自：田纳西州 莫非斯堡市（Murfreesboro，Tennessee) 
+职业：乡村歌手

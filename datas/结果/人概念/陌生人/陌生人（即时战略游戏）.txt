@@ -1,0 +1,8 @@
+AVP:
+发行商=Fireglow
+中文名=陌生人
+游戏语言=英语
+CATEGORY_ZH=游戏作品,策略游戏,游戏,字词,娱乐作品
+原版名称=Stranger
+开发商=Fireglow
+游戏类型=RPG&RTS

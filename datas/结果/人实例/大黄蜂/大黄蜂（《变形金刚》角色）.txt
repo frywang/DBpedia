@@ -1,0 +1,10 @@
+AVP:
+中文名=大黄蜂
+CATEGORY_ZH=电影作品,动漫形象,人物
+配音=Dan Gilvizan（G1）
+外文名=Bumblebee
+登场作品=变形金刚
+DESC=孩之宝(Hasbro)旗下玩具，动漫作品《变形金刚》的主要角色之一。
+1984年由漫威编辑BobBudiansky命名为Bumblebee，1984年9月在元祖漫画《The Transformers》第一集首次登场。
+相关漫画、动画和真人电影中均有主场担当。
+*部分图片为对应设定资料，请勿随意删除或打乱排版。

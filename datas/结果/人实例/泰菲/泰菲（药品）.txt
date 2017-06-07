@@ -1,0 +1,5 @@
+AVP:
+外文名称=Clarithromycin Dispersible Tablets
+药品名称=泰菲
+是否处方药=非处方药
+药品类型= 抗感染药

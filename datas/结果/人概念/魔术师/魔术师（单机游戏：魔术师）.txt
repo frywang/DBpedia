@@ -1,0 +1,6 @@
+AVP:
+中文名=魔术师
+游戏平台=Windows XP,Windows Vista
+其他名称=The Conjurer
+游戏语种=英文
+游戏类型=解谜

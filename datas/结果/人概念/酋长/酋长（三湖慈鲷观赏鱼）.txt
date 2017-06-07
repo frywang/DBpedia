@@ -1,0 +1,16 @@
+AVP:
+亚门=脊椎动物亚门
+拉丁学名=Dimidiochromisdimidiatus
+门=脊索动物门
+界=动物界
+种=纵带恐怖丽鱼
+DESC=酋长，学名纵带恐怖丽鱼（Dimidiochromis dimidiatus  ），为鲈形目，慈鲷科，恐怖丽鱼属一种淡水鱼类。纵带恐怖丽鱼分布于马拉维湖浅滩水域，外形奇特，色彩美丽，可作为观赏鱼类。
+目=鲈形目
+别称=酋长
+中文学名=纵带恐怖丽鱼
+科=慈鲷科
+亚纲=辐鳍亚纲
+纲=硬骨鱼纲
+CATEGORY_ZH=中国水产学会
+英文名称=Ncheni typehaplochromis
+属=恐怖丽鱼属

@@ -1,0 +1,7 @@
+AVP:
+中文名=波比精简版
+游戏平台=andriod
+原版名称=波比
+其他名称=Popies Lite
+DESC=波比（Popies Lite）是一款类似打地鼠的休闲游戏。
+游戏类型=益智休闲

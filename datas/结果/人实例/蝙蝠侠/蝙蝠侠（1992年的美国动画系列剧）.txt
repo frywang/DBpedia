@@ -1,0 +1,7 @@
+AVP:
+中文名=蝙蝠侠动画系列
+国家=美国
+首播=1992
+外文名=Batman: The Animated Series
+DESC=动画版《蝙蝠侠》于1992首播，曾获得第45届黄金时段艾美奖技术类大奖。《蝙蝠侠》（Batman）系列动画片由华纳兄弟制作，分别出品了多部动画，它们是《蝙蝠侠动画系列（BATMAN THE ANIMATED SERIES）》、《蝙蝠侠&amp;罗宾冒险记（The Adventures of Batman &amp; Robin）》、《蝙蝠侠大战幻影人》和《蝙蝠侠：冰点危机》等。
+類型=動漫
